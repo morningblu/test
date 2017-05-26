@@ -1,0 +1,10 @@
+#C/C++:
+*.o
+*.so
+
+
+#Python
+*.pyc
+
+#directory
+Doubly_Linked_List.xcodeproj
