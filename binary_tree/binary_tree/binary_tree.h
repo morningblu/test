@@ -31,4 +31,6 @@ void Inorder(Node *root);
 //Postorder A Tree
 void Postorder(Node *root);
 
+//Get the Depth of binary tree
+int get_tree_depth(Node *root);
 #endif /* binary_tree_h */

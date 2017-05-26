@@ -1,6 +1,7 @@
 #C/C++:
 *.o
 *.so
+*.xcodeproj
 
 #Python
 *.pyc

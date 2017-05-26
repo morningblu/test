@@ -26,5 +26,9 @@ int main(int argc, const char * argv[])
     printf("\n");
     Postorder(root);
     
+	int depth = 0;
+
+	depth = get_tree_depth(root);
+	printf("%d\n",depth);
     return 0;
 }

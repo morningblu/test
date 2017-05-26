@@ -68,6 +68,18 @@ void Postorder(Node *root)
 }
 
 
-//Delete A Node
+//Get the Depth of binary tree
+int get_tree_depth(Node *root)
+{
+	if(root == NULL) {
+		return 0;
+	}
+
+	int left = 0, right = 0;
+	left = get_tree_depth(root->left);
+	right = get_tree_depth(root->right);
+
+	return left > right ? left + 1 : right + 1;
+}
 
 
