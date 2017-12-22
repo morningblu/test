@@ -1,0 +1,3 @@
+/Users/guhao/workspace/converse_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/guhao/workspace/converse_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guhao/workspace/converse_list/cmake-build-debug/CMakeFiles/converse_list.dir
